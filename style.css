@@ -443,7 +443,11 @@ footer p {
 
 
 
-/* git commit -m "first commit"
+/* 
+git init
+git add .
+git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/ManuSam23/My-Portfolio.git
-git push -u origin main */
+git remote add origin https://github.com/ManuSam23/Portfolio.git
+git push -u origin main
+ */

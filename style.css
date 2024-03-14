@@ -180,6 +180,7 @@ section {
   margin: auto 0;
 }
 
+/* profile1 */
 .profile1 {
   border-radius: 80px;
 }
@@ -450,4 +451,12 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ManuSam23/Portfolio.git
 git push -u origin main
+
+
+push an existing repository from the command line::
+
+git remote add origin https://github.com/ManuSam23/Portfolio.git
+git branch -M main
+git push -u origin main
+
  */
